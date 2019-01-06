@@ -1,0 +1,131 @@
+13
+Grass
+Grass
+Frenzy Plant
+ slams the target with enormous tree roots!  The user must recharge during the next turn.
+Giga Drain
+ drained target's nutrients!  The user's HP is restored by half the damage taken by the target.
+Leaf Storm
+ whips up a storm of sharp leaves around the target!  Recoil from the attack harshly reduces the user's Sp.Atk.
+Synthesis
+'s HP is restored 50%!
+Water
+Water
+Hydro Pump
+ blasts the target with a huge volume of water launched under great pressure!
+Scald
+ shoots boiling hot water at its target! ✓(30% burn chance)
+Surf
+ creates a big wave that crashes down on the target!
+Water Spout
+ spouts an intense stream of water at the target!
+Fire
+Fire
+Blast Burn
+ razes the target with a fiery explosion!  The user must rest on the next turn.
+Flamethrower
+ scorches the target with an intense blast of fire! ✓(10% burn chance)
+Flare Blitz
+ cloaks itself in fire and charges the target!  The user receives 1/3 of the damage taken by the target as recoil. ✓(10% burn chance)
+Overheat
+ releases a full-power blast of white flame towards the target!  Recoil from the attack harshly reduces the user's Sp.Atk.
+Electric
+Electric
+Electro Ball
+ hurls an electric orb at the target!
+Thunder
+ drops a wicked thunderbolt on the target! ✓(30% stun chance)
+Thunder Punch
+ punches the target with an electrified fist! ✓(10% stun chance)
+Thunderbolt
+ releases a strong electric blast that crashes down on the target! ✓(10% stun chance)
+Bug
+Bug
+Bug Bite
+ bites the target furiously with its mandibles!
+Fury Cutter
+ slashes the target with its long pincer horns!  Each successive strike is twice as powerful as the previous.
+Struggle Bug
+, while resisting, attacks the target!  The target's Sp. Atk fell.
+X-Scissor
+ slashes the target by crossing its long pincer horns as if they were a pair of scissors!
+Normal
+Normal
+Body Slam
+ drops onto the target with its full body weight! ✓(30% stun chance)
+Double Team
+, by moving rapidly, makes illusory copies of itself to raise its evasiveness!
+Giga Impact
+ charges at the target using every bit of its power!  The user must rest on the next turn.
+Hyper Beam
+ attacks the target with a powerful beam using all of its power!  The user must recharge during the next turn.
+Poison
+Poison
+Belch
+ lets out a damaging belch at the target!  (You can easily smell what it had to eat earlier...)
+Sludge Bomb
+ hurls filthy sludge at the target!   ✓(30% poison chance)
+Toxic
+ leaves the target badly poisoned after its attack!  Its poison damage worsens every turn.
+Venoshock
+ drenches the target in a special poisonous liquid! ✓(x2 damage if poisoned)
+Ground
+Ground
+Bulldoze
+ stomps down on the ground striking the target and everything around it!  The target's Speed fell.
+Dig
+ burrows underground!  Then, it emerges from the earth and attacks the target from its blind spot!
+Earth Power
+ makes the ground under the target erupt with power! ✓(10% chance sp.def lowered)
+Earthquake
+ sets off an earthquake that strikes everything around it, including the target!
+Fairy
+Fairy
+Dazzling Gleam
+ emits a powerful flash of fairy light that shines on everything around it, including the target!
+Disarming Voice
+ lets out a charming cry, that always deals emotional damage to the target!
+Moonblast
+ borrows the power of the moon to attack the target! ✓(30% chance sp.atk lowered)
+Moonlight
+'s HP is restored 75%!
+Fighting
+Fighting
+Close Combat
+ fights the target up close without guarding itself!  The engage leaves the user without a guard, lowering its Defense and Sp. Def!
+Cross Chop
+ delivers a double chop, that causes more critical hits, with its forearms crossed! ✓(x2 crit chance)
+Focus Punch
+ focuses its mind before launching a powerful punch of loyalty!
+Low Kick
+ strikes the target with a powerful low kick that makes the target fall over! ✓('heavy' or 'light' target)
+Psychic
+Psychic
+Future Sight
+ sends a hunk of psychic energy to attacks the target in the future!  (A few moments later...)  The target is hit with a mass of psychic energy!
+Psychic
+ hits the target with a strong telekinetic force! ✓(10% chance sp.def lowered)
+Psyshock
+ materializes an odd psychic wave that inflicts physical damage on the target!
+Zen Headbutt
+ focuses its willpower to its head and charges the target! ✓(20% flinch chance)
+Dragon
+Dragon
+Draco Meteor
+ summons comets down from the sky onto the target!  Stress from the attack harshly reduces the user's Sp. Atk.
+Dragon Claw
+ quickly hooks and slashes the target with sharp, huge claws and great power!
+Dragon Rush
+ tackles the target while exhibiting overwhelming menace! ✓(20% flinch chance)
+Outrage
+ rampages about and viciously attacks the target!  (A few moments later...)  The reckless emotion of its attack leaves it confused after it has calmed down.
+Ice
+Ice
+Avalanche
+ summons a dark cloud that rains down chunks of ice on the opponent!
+Blizzard
+ summons a howling blizzard to blast the target! ✓(10% freeze chance)
+Ice Beam
+ strikes the target with an icy-cold beam of energy! ✓(10% freeze chance)
+Icicle Crash
+ harshly drops a rain of large icicles onto the target! ✓(30% flinch chance)
